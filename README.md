@@ -6,24 +6,38 @@ Structured a Dictionary ADT applying linked-lists and hash tables. Stores elemen
 
 ### DictionaryHash
 
-Makefile                 This file is responsible for creating an executable jar file,
-                         with the name of DictionaryClient, that would be helpful for running the
-                         Dictionary.c file and the other files listed below.
+Makefile:
 
-Dictionary.c             This file is responsible for the hash table implementation of the Dictionary ADT.
+This file is responsible for creating an executable jar file, with the name of DictionaryClient, that would be helpful for running the
+Dictionary.c file and the other files listed below.
 
-DictionaryTest.c         This file is responsible for testing the Dictionary ADT files for errors, etc.
+Dictionary.c:
 
-Dictionary.h             This file is the header file for the Dictionary.c file.
+This file is responsible for the hash table implementation of the Dictionary ADT.
+
+DictionaryTest.c:
+
+This file is responsible for testing the Dictionary ADT files for errors, etc.
+
+Dictionary.h:
+
+This file is the header file for the Dictionary.c file.
 
 ### Dictionarylinkedlist
 
-Makefile                 This file is responsible for creating an executable jar file,  
-                         with the name of DictionaryClient, that would be helpful for running the
-                         Dictionary.c file and the other files listed below.
+Makefile:
 
-Dictionary.c             This file is responsible for the linked list implementation of the Dictionary ADT.
+This file is responsible for creating an executable jar file, with the name of DictionaryClient, that would be helpful for running the
+Dictionary.c file and the other files listed below.
 
-DictionaryTest.c         This file is responsible for testing the Dictionary ADT files for errors, etc.
+Dictionary.c:
 
-Dictionary.h             This file is the header file for the Dictionary.c file.
+This file is responsible for the linked list implementation of the Dictionary ADT.
+
+DictionaryTest.c:
+
+This file is responsible for testing the Dictionary ADT files for errors, etc.
+
+Dictionary.h:
+
+This file is the header file for the Dictionary.c file.
